@@ -1,4 +1,4 @@
-package com.m0n0l0c0.LinkedChronos.adapter;
+package com.m0n0l0c0.LinkedChronos.ui;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
