@@ -1,10 +1,9 @@
-package com.m0n0l0c0.LinkedChronos;
+package com.m0n0l0c0.LinkedChronos.ui;
 
 import android.content.DialogInterface;
 import android.media.Ringtone;
 import android.media.RingtoneManager;
 import android.net.Uri;
-import android.net.rtp.RtpStream;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
@@ -16,16 +15,14 @@ import android.text.InputType;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.m0n0l0c0.LinkedChronos.adapter.ChronoAdapter;
+import com.m0n0l0c0.LinkedChronos.R;
 import com.m0n0l0c0.LinkedChronos.base.BaseActivity;
 import com.m0n0l0c0.LinkedChronos.interfaces.CheckEmpty;
 import com.m0n0l0c0.LinkedChronos.model.Chrono;
 
-import java.security.KeyStore;
 import java.util.ArrayList;
 
 public class MainActivity extends BaseActivity implements CheckEmpty {

@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:background="@color/colorBackground"
-    tools:context="com.m0n0l0c0.LinkedChronos.MainActivity">
+    tools:context="com.m0n0l0c0.LinkedChronos.ui.MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
