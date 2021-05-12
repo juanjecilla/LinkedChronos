@@ -1,4 +1,4 @@
-package com.m0n0l0c0.linkedchronos.di.scopes
+package com.scallop.linkedchronos.di.scopes
 
 import javax.inject.Scope
 

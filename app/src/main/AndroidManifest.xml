@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.m0n0l0c0.linkedchronos">
+    package="com.scallop.linkedchronos">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:name=".AppClass"
+        android:name="com.scallop.linkedchronos.AppClass"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.m0n0l0c0.linkedchronos.ui.SplashActivity"
+            android:name="com.scallop.linkedchronos.ui.SplashActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -20,11 +20,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.m0n0l0c0.linkedchronos.ui.home.MainActivity"
+            android:name="com.scallop.linkedchronos.ui.home.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.m0n0l0c0.linkedchronos.SettingsActivity"
+            android:name="com.scallop.linkedchronos.SettingsActivity"
             android:label="@string/title_activity_settings"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>

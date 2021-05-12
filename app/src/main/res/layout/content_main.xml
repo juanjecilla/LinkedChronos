@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.m0n0l0c0.linkedchronos.ui.home.MainActivity"
+    tools:context="com.scallop.linkedchronos.ui.home.MainActivity"
     tools:showIn="@layout/activity_main">
 
     <LinearLayout

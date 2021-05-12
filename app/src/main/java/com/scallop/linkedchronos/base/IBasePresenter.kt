@@ -1,4 +1,4 @@
-package com.m0n0l0c0.linkedchronos.base
+package com.scallop.linkedchronos.base
 
 interface IBasePresenter<ViewT> {
 

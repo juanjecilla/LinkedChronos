@@ -1,4 +1,4 @@
-package com.m0n0l0c0.linkedchronos.model
+package com.scallop.linkedchronos.model
 
 import android.os.CountDownTimer
 

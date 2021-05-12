@@ -8,7 +8,7 @@
     android:background="@color/colorBackground"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/activity_splash"
-    tools:context="com.m0n0l0c0.linkedchronos.ui.SplashActivity">
+    tools:context="com.scallop.linkedchronos.ui.SplashActivity">
 
     <LinearLayout
         android:orientation="vertical"

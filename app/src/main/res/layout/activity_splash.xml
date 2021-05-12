@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.m0n0l0c0.linkedchronos.ui.SplashActivity">
+    tools:context="com.scallop.linkedchronos.ui.SplashActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_height="wrap_content"

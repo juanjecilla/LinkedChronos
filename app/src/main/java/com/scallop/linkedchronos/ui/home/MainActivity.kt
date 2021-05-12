@@ -1,4 +1,4 @@
-package com.m0n0l0c0.linkedchronos.ui.home
+package com.scallop.linkedchronos.ui.home
 
 import android.media.Ringtone
 import android.media.RingtoneManager
@@ -13,10 +13,10 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.m0n0l0c0.linkedchronos.R
-import com.m0n0l0c0.linkedchronos.base.BaseActivity
-import com.m0n0l0c0.linkedchronos.interfaces.CheckEmpty
-import com.m0n0l0c0.linkedchronos.model.Chrono
+import com.scallop.linkedchronos.R
+import com.scallop.linkedchronos.base.BaseActivity
+import com.scallop.linkedchronos.interfaces.CheckEmpty
+import com.scallop.linkedchronos.model.Chrono
 import kotlinx.android.synthetic.main.content_main.*
 import java.util.*
 

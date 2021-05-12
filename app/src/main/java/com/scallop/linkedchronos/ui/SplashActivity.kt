@@ -1,12 +1,12 @@
-package com.m0n0l0c0.linkedchronos.ui
+package com.scallop.linkedchronos.ui
 
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
-import com.m0n0l0c0.linkedchronos.R
+import com.scallop.linkedchronos.R
 
-import com.m0n0l0c0.linkedchronos.base.BaseActivity
-import com.m0n0l0c0.linkedchronos.ui.home.MainActivity
+import com.scallop.linkedchronos.base.BaseActivity
+import com.scallop.linkedchronos.ui.home.MainActivity
 
 class SplashActivity : BaseActivity() {
 

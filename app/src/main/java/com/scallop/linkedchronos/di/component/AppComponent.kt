@@ -1,9 +1,9 @@
-package com.m0n0l0c0.linkedchronos.di.component
+package com.scallop.linkedchronos.di.component
 
-import com.m0n0l0c0.linkedchronos.AppClass
-import com.m0n0l0c0.linkedchronos.di.modules.ActivitiesModule
-import com.m0n0l0c0.linkedchronos.di.modules.AppModule
-import com.m0n0l0c0.linkedchronos.di.modules.FragmentsModule
+import com.scallop.linkedchronos.AppClass
+import com.scallop.linkedchronos.di.modules.ActivitiesModule
+import com.scallop.linkedchronos.di.modules.AppModule
+import com.scallop.linkedchronos.di.modules.FragmentsModule
 import dagger.BindsInstance
 import dagger.Component
 import dagger.android.support.AndroidSupportInjectionModule

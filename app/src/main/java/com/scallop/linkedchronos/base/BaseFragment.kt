@@ -1,11 +1,11 @@
-package com.m0n0l0c0.linkedchronos.base
+package com.scallop.linkedchronos.base
 
 import android.os.Bundle
 import android.view.View
 import android.widget.ProgressBar
 import android.widget.Toast
 import androidx.fragment.app.Fragment
-import com.m0n0l0c0.linkedchronos.R
+import com.scallop.linkedchronos.R
 import dagger.android.support.AndroidSupportInjection
 
 abstract class BaseFragment : Fragment(), IBaseView {

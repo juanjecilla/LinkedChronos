@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:background="@color/colorBackground"
-    tools:context="com.m0n0l0c0.linkedchronos.ui.home.MainActivity">
+    tools:context="com.scallop.linkedchronos.ui.home.MainActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"

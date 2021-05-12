@@ -1,4 +1,4 @@
-package com.m0n0l0c0.linkedchronos
+package com.scallop.linkedchronos
 
 import android.os.Bundle
 import android.view.View

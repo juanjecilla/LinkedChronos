@@ -1,4 +1,4 @@
-package com.m0n0l0c0.linkedchronos.ui.home
+package com.scallop.linkedchronos.ui.home
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,10 +7,10 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.m0n0l0c0.linkedchronos.R
-import com.m0n0l0c0.linkedchronos.interfaces.CheckEmpty
-import com.m0n0l0c0.linkedchronos.model.Chrono
-import com.m0n0l0c0.linkedchronos.ui.home.ChronoAdapter.ChronoViewHolder
+import com.scallop.linkedchronos.R
+import com.scallop.linkedchronos.interfaces.CheckEmpty
+import com.scallop.linkedchronos.model.Chrono
+import com.scallop.linkedchronos.ui.home.ChronoAdapter.ChronoViewHolder
 import java.util.*
 import java.util.concurrent.TimeUnit
 

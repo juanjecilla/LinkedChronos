@@ -1,4 +1,4 @@
-package com.m0n0l0c0.linkedchronos.di.modules
+package com.scallop.linkedchronos.di.modules
 
 import dagger.Module
 
